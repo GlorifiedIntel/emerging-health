@@ -1,2 +1,3 @@
 ## Emerging-Health & Environment Initiative
- Emerging Health and Environment Initiative (EMHEI) is a non-governmental organization (NGO) dedicated to addressing critical health and environmental challenges in Nigeria and the broader sub-Saharan African region.
+ Emerging Health and Environment Initiative (EMHEI) is a non-governmental organization (NGO) dedicated to addressing critical health and environmental challenges in Nigeria and the broader sub-Saharan African region. With its corporate office based in Nigeria, EMHEI is legally registered with the Corporate Affairs Commission (CAC) under registration number CAC/IT/NO 49993. While officially incorporated as an NGO, the organization has been actively engaged in community development initiatives since 2008, demonstrating a longstanding commitment to improving public health and environmental sustainability. Yhis is the offical website under construction.
+
