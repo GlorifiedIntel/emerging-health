@@ -18,7 +18,7 @@
   --background-color: #ffffff; 
   --default-color: #444444; 
   --heading-color: #2c4964; 
-  --accent-color: #212738; 
+  --accent-color: #1977cc; 
   --surface-color: #ffffff; 
   --contrast-color: #ffffff; 
 }
@@ -536,7 +536,7 @@ h2 {
     justify-content: center;
     border-radius: 50%;
     transition: 0.3s;
-    background-color: rgba(25, 119, 204, 0.1); /* Fallback color */
+    background-color: color-mix(in srgb, var(--accent-color), transparent 90%);
   }
 
   .navmenu a i:hover,
